@@ -45,17 +45,16 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ## Explanation of the files included in the repository
 
-`.circleci/config.yml` - config file for circleci
-`model_data` - folder with data for ML prediction model
-`output_txt_files/docker_out.txt` - output from run_docker.sh and make_prediction.sh
-`output_txt_files/kubernetes_out.txt` - output from run_kubernetes.sh and make_prediction.sh
-`app.py` - Flask application
-`Dockerfile` - config file for Docker
-`make_prediction.sh` - script to make prediction
-`Makefile` - makefile
-`README.md` - readme
-`requirements.txt` - file for dependencies
-`run_docker.sh` - script to run docker container
-`run_kubernetes.sh` - script to run kubernetes
-`upload_docker.sh` - script to upload docker image to DockerHub account
-
+* `.circleci/config.yml` - config file for circleci
+* `model_data` - folder with data for ML prediction model
+* `output_txt_files/docker_out.txt` - output from run_docker.sh and make_prediction.sh
+*`output_txt_files/kubernetes_out.txt` - output from run_kubernetes.sh and make_prediction.sh
+* `app.py` - Flask application
+* `Dockerfile` - config file for Docker
+* `make_prediction.sh` - script to make prediction
+* `Makefile` - makefile
+* `README.md` - readme
+* `requirements.txt` - file for dependencies
+* `run_docker.sh` - script to run docker container
+* `run_kubernetes.sh` - script to run kubernetes
+* `upload_docker.sh` - script to upload docker image to DockerHub account
