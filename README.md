@@ -1,6 +1,6 @@
 
 
-<include a CircleCI status badge, here>
+[![Udacity_DevOps_Microservices_Project](https://circleci.com/gh/sfcabdriver/Udacity_DevOps_Microservices_Project.svg?style=svg)](https://app.circleci.com/pipelines/github/sfcabdriver/Udacity_DevOps_Microservices_Project/7/workflows/2d405038-0704-436b-a248-1698f6d915a4)
 
 ## Project Overview
 
